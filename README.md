@@ -8,13 +8,14 @@
 
 🚀 **Working at Invision360 by day.**
 
-Changing people's lives using the power of software to improve the quality of EHCPs and PEPs.
+Changing people's lives using the power of software and machine learning to improve the quality of EHCPs and PEPs.
 
 🌖 **Working on some projects by night.**
 
 I love coming up with new ideas and just seeing where they go! Coming soon;
 - A portfolio redesign and personal-rebrand.
 - A fancy minimal messaging app using sockets!
+- A home network/lab!
 
 <!--
 **dan-sarracayo/dan-sarracayo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
