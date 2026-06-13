@@ -4,15 +4,15 @@
 
 👴 **Senior Full Stack Engineer**
 
-😁 **(he/him)**
+ℹ️ **(he/him)**
 
 📍 **Suffolk, UK**
 
-🚀 **Working at Invision360 by day.**
+🚀 **Working at [Invision360](https://github.com/Invision360) by day.**
 
-Changing people's lives using the power of software and machine learning to improve the quality of EHCPs and PEPs.
+Changing young people's lives using the power of software and machine learning to improve the quality of EHCPs and PEPs.
 
-🌖 **Working on some projects by night.**
+🌖 **Working on projects by night.**
 
 I love coming up with new ideas and just seeing where they go! Coming soon;
 - ✅ A portfolio redesign and personal-rebrand.
